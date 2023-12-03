@@ -13,7 +13,7 @@ serial_number: "097"
 doc_id: "SITCOMTN-097"
 
 # Title of the document, without the series/serial designation
-doc_title: "prova"
+doc_title: "technote"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
